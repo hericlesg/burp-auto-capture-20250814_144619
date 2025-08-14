@@ -1,0 +1,14 @@
+GET /api/config.json?key=FTG98-TS3G7-5ABQN-H3VJ9-8HVPB&d=gateway.inplaybet.com&t=5850645&v=1.720.0&sl=0&si=6d611e2e-94e0-4132-b1bf-8205009da9d5-t0zvyl&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=845170 HTTP/1.1
+Host: c.go-mpulse.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://gateway.inplaybet.com/
+Origin: https://gateway.inplaybet.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: keep-alive
+
