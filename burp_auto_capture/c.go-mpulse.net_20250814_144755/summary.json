@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250814_144755", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/c.go-mpulse.net_20250814_144755/request_001.txt", 
+      "url": "https://c.go-mpulse.net:443/api/config.json?key=FTG98-TS3G7-5ABQN-H3VJ9-8HVPB&d=gateway.inplaybet.com&t=5850645&v=1.720.0&sl=0&si=6d611e2e-94e0-4132-b1bf-8205009da9d5-t0zvyl&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,History,Angular,Backbone,Ember,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,Akamai,Early,EventTiming,LOGN&acao=&ak.ai=845170", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/c.go-mpulse.net_20250814_144755/response_001.txt", 
+      "timestamp": 1755193486372
+    }
+  ], 
+  "host": "c.go-mpulse.net", 
+  "total_requests": 1
+}
