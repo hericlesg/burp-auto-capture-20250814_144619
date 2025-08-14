@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:40:38 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S1BUVPdqE0ZWrKP3%2FF%2BFSeRBnFS023p%2FCo1Zv%2Be2L7jjeMXjSiktFJFoDLy2Lk1GgGNyJjssr4YPAY%2Bb8x6TCJvkCPJiavO4vnQ4SAKc%2BAiRS9NvqA%3D%3D"}]}
+Set-Cookie: AWSALB=E09tb9wiTOd/09h+VhqtUzYXPMmy3cuYl3fq6Tpp/OvJaQvik7Xr9g6qC/lb9bDRDIJudrUCk9hWlBoAh3dp15uAVk1LTVDpjJnwvpW4rjopgJQxIZh5Ued/BnCP; Path=/; Expires=Thu, 21 Aug 2025 17:40:37 GMT
+Set-Cookie: AWSALBCORS=E09tb9wiTOd/09h+VhqtUzYXPMmy3cuYl3fq6Tpp/OvJaQvik7Xr9g6qC/lb9bDRDIJudrUCk9hWlBoAh3dp15uAVk1LTVDpjJnwvpW4rjopgJQxIZh5Ued/BnCP; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:40:37 GMT
+Cf-Ray: 96f23d08a862b56d-MXP
+Alt-Svc: h3=":443"; ma=86400
+
+{"firstName":"Felipe","sessionToken":"cMrgh11BZ3ATHaTddVOKOGxTImHLGhT9PtIo9gn4ujaca5kagp2W7KaPoLDf6RRDpFXM%2f0Tp0zHYZvp%2fpkk3%2bg%3d%3d","user":{"id":6276710,"email":"felipe0800@gmail.com","isEmailVerified":false,"currencyId":"BRL","userName":"U6276710","partnerId":180,"regionId":5193,"cityId":0,"countryId":716,"gender":0,"genderName":"-","birthDate":"1989-08-27T00:00:00","firstName":"Felipe","lastName":"De Oliveira Ferreira","nickName":"","documentNumber":"","phoneNumber":"+5511992325222","documentIssuedBy":"","address":"220 208 R RIACHUELO ","mobileNumber":"+5511992325222","isMobileNumberVerified":false,"languageId":"pt","registrationIp":"179.35.8.138","creationTime":"2025-08-14T17:40:37.9588254Z","lastUpdateTime":"0001-01-01T00:00:00","token":"abb872a299dc4c7cb3f1cc0d20645d7b","emailOrMobile":null,"sendMail":true,"sendSms":true,"callToPhone":false,"sendPromotions":true,"isDocumentVerified":false,"kYCDocsStatus":0,"kYCStatus":0,"zipCode":"20230015","info":null,"categoryId":1,"categoryName":null,"welcomeBonusActivationKey":null,"citizenship":null,"citizenshipName":"","jobArea":null,"currencySymbol":"R$ ","lastLogin":null,"lastLogout":null,"lastLoginIp":null,"resetPassword":false,"resetNickName":null,"acceptTermsConditions":false,"documentExpirationStatus":null,"ad":null,"adm":null,"timeZone":0.0,"taxNumber":"14445567701","street":null,"streetNumber":null,"complement":null,"referralCode":"Jx73TrxbqE2CTDFjBVPp","isReferralBlocked":false,"successfulDepositCount":0,"loginType":0,"isWithdrawalsBlocked":false,"deposits":null,"offerId":null,"offerTranslation":null,"offerDescriptionTranslation":null,"isUserUnsubscribe":false,"postRegistrationCompleted":false,"activityStatus":0,"requiredVerifications":[],"cityName":"RIO DE JANEIRO","isTest":false,"district":null,"pendingLegalDocuments":[],"referFriendActive":false}}
