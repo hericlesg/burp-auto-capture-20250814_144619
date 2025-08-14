@@ -1,0 +1,14 @@
+GET /shared/984721902a/c913d1ca2f.1dff4.json HTTP/2
+Host: static.j67z85nx4.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://m.j67z85nx4.com/
+Origin: https://m.j67z85nx4.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=4
+Te: trailers
+
