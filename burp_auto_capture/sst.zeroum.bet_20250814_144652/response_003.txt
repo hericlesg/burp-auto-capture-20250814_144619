@@ -1,0 +1,30 @@
+HTTP/2 200 OK
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Thu, 14 Aug 2025 17:41:18 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=7775683; Domain=zeroum.bet; Path=/; Secure
+Set-Cookie: FPGSID=1.1755192961.1755193278.G-R38GP7L2V4.1_iXM_W5TaYs0ZRiaCZmvg; Max-Age=1483; Domain=zeroum.bet; Path=/; SameSite=strict; Secure
+Trace-Id: 357656eb-be97-4b4c-92b3-61e7bd48a716
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_is_sw=0&_tu=BA&_gsid=R38GP7L2V41_iXM_W5TaYs0ZRiaCZmvg"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-R38GP7L2V4&cid=3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_is_sw=0&_tu=BA&aip=1&z=1923616056"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=973023676&fst=1755193278540&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&url=https%3A%2F%2Fwww.zeroum.bet%2Fcadastro%3Fs_tracker%3Ddykteqpdkkwkdlogpedbgjdwj%26utm_medium%3DTAP%252C8lsk4pkhre%26utm_campaign%3D447611%26utm_source%3D447611%26afp1%3DCP07%2520%255Bzero1%255D%2520%255BABO%2520ADV%25201-10-6%255D%2520%255B01%252F08%255D%26afp2%3DCJ1%26afp3%3DAD434%26afp9%3Dvictor&data=event%3Dsign_up&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_tu=BA"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com/pagead/1p-conversion/17392367413/?random=1618688598&fst=1755193278602&cv=10&fmt=3&label=NE1sCK3Y3oUbELXuqeVA&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&url=https%3A%2F%2Fwww.zeroum.bet%2Fcadastro%3Fs_tracker%3Ddykteqpdkkwkdlogpedbgjdwj%26utm_medium%3DTAP%252C8lsk4pkhre%26utm_campaign%3D447611%26utm_source%3D447611%26afp1%3DCP07%2520%255Bzero1%255D%2520%255BABO%2520ADV%25201-10-6%255D%2520%255B01%252F08%255D%26afp2%3DCJ1%26afp3%3DAD434%26afp9%3Dvictor&data=event%3Dsign_up&bttype=purchase&ec_mode=c&em=tv.1~em.zDP1BKoogiNO3vNQ7LBURkuhfrHn5_E60Rqq5MPMyMY&value=0&uip=179.35.8.0&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_tu=BA&s3p=1&_is_sw=0&gcp=1&sscte=1&ct_cookie_present=1"],"options":{"attribution_reporting":true}}
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=1618688598&fst=1755193278602&cv=10&fmt=3&label=NE1sCK3Y3oUbELXuqeVA&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58d0v9187957930z89187974028z99226831139za200zb9187974028zd9187974028&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&url=https%3A%2F%2Fwww.zeroum.bet%2Fcadastro%3Fs_tracker%3Ddykteqpdkkwkdlogpedbgjdwj%26utm_medium%3DTAP%252C8lsk4pkhre%26utm_campaign%3D447611%26utm_source%3D447611%26afp1%3DCP07%2520%255Bzero1%255D%2520%255BABO%2520ADV%25201-10-6%255D%2520%255B01%252F08%255D%26afp2%3DCJ1%26afp3%3DAD434%26afp9%3Dvictor&data=event%3Dsign_up&bttype=purchase&ec_mode=c&em=tv.1~em.zDP1BKoogiNO3vNQ7LBURkuhfrHn5_E60Rqq5MPMyMY&value=0&uip=179.35.8.0&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_tu=BA&s3p=1&_is_sw=0&gcp=1&ct_cookie_present=1"],"options":{"attribution_reporting":true}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
