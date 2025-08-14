@@ -1,0 +1,17 @@
+POST /gs2c/ge/v4/gameService HTTP/2
+Host: tz9ymepgkc.jzdpklfspi.net
+Cookie: _ga=GA1.3.1580525987.1755193510; _gid=GA1.3.1015794218.1755193510
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://tz9ymepgkc.jzdpklfspi.net/gs2c/html5Game.do?jackpotid=0&gname=Ratinho%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10forwild_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@58800855e69b3e7f766ed71a2ea2053f14cbf12277af12ff2ced462095a546ce~stylename@ips_inplaysoft~SESSION@c25f2bcd-b22f-4695-ad02-451562d99158~SN@20590b2e&tabName=
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 251
+Origin: https://tz9ymepgkc.jzdpklfspi.net
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Te: trailers
+
+action=doSpin&symbol=vs10forwild_cv99&c=0.01&l=10&sInfo=an&index=19&counter=37&repeat=0&mgckey=AUTHTOKEN@58800855e69b3e7f766ed71a2ea2053f14cbf12277af12ff2ced462095a546ce~stylename@ips_inplaysoft~SESSION@c25f2bcd-b22f-4695-ad02-451562d99158~SN@20590b2e
