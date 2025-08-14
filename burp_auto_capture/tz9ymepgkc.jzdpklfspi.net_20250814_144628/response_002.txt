@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: text/html;charset=UTF-8
+Content-Length: 251
+Server: nginx
+Date: Thu, 14 Aug 2025 17:46:22 GMT
+Access-Control-Allow-Credentials: true
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: 0
+P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Pragma: no-cache
+Access-Control-Allow-Origin: https://tz9ymepgkc.jzdpklfspi.net
+X-Cache: Miss from cloudfront
+Via: 1.1 adefb9d8f127d135c77c36e328df10a8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P10
+X-Amz-Cf-Id: Z7gqKw-YtgcH5C8Eh0UuM-2Jkn8J3tfVsMvSDNcdKM6w_fLjpLylsQ==
+
+tw=0.00&rid=80218918066096&fra=0.10&balance=0.00&frn=84&index=20&frt=N&balance_cash=0.00&reel_set=4&balance_bonus=0.00&na=s&stime=1755193582332&sa=4,8,5&sb=6,4,4&sh=4&st=rect&c=0.01&sw=3&sver=5&counter=40&ntp=0.10&l=10&s=6,8,3,7,6,4,8,7,5,9,7,9&w=0.00
