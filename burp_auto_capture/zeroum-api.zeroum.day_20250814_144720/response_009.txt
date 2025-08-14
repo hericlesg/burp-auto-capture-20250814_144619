@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:41:19 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=zzH9gq58hNw1X7vUV%2FO5EspJkXAgwdSvDNi64mOsKzy8aYkQ0ziRempy1wjtAyi3nYiH1AdJ9xbIPnVkma6EhiyHttULX96ux%2F2%2BPHC6pTvoXrNSxQ%3D%3D"}]}
+Set-Cookie: AWSALB=NIygAII3SEF442qRmY1cFBoKn56QTABQ7YZQNxP581gprTYxo0Wx2d1zkwJQzv6DrVHrqPc0ilp0SVbXTOHLK5zMQ9mCL6Ffo7com6LrqF/UtBlnIDLNedgF8TgD; Path=/; Expires=Thu, 21 Aug 2025 17:41:19 GMT
+Set-Cookie: AWSALBCORS=NIygAII3SEF442qRmY1cFBoKn56QTABQ7YZQNxP581gprTYxo0Wx2d1zkwJQzv6DrVHrqPc0ilp0SVbXTOHLK5zMQ9mCL6Ffo7com6LrqF/UtBlnIDLNedgF8TgD; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:41:19 GMT
+Cf-Ray: 96f23e0cca725091-MXP
+Alt-Svc: h3=":443"; ma=86400
+
+{"structure":["CasinoGames","CasinoWinners","DepositSection","ProductsBanners","PromotionBanners","SportsbookTopCompetition","SportsbookTopEventsBanners","TelegramBanner"],"casinoSlug":"jogos-da-deo","casinoTags":[{"slug":"jogos-da-deo","name":"JOGOS DA DEO","image":"/assets/images/zeroum.webp"},{"slug":"mais-jogados-da-semana","name":"+ Jogados da Semana","image":"/assets/images/trendy.webp"},{"slug":"jogos-vip","name":"Jogos Vip","image":"/assets/images/casino-icons/top.webp"},{"slug":"melhores-roletas","name":"Roletas em Destaque","image":"/assets/images/live_casino_all_games.webp"},{"slug":"melhores-jogos-ao-vivo","name":"Melhores Jogos Ao Vivo","image":"/assets/images/casino-icons/top.webp"},{"slug":"jogos-da-semana","name":"Jogos da Semana","image":"/assets/images/crash.webp"}]}
