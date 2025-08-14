@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:36:46 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=57Njpn4pEzZc34fQkQktHLHn3Nm%2BzZZRviMz7fDM9oiOA2yDE4WRsbdtlk75MIBgiTEgUNsaphjH0TGyPr%2FO4Zy0zdiaZLvRp66B%2BDZa2eZhy68%3D"}]}
+Set-Cookie: AWSALB=uD1IervAz+d3wGakQB7qE6qQ5UIY2aOqZZ1Lup4YrV5qLIP5uQL74o5is85ng90h/mklqwvYVAnFFeV9OyNNdA6C858E6gtKpOIzGBtJ0VrO/a2q5B0AsFlEt8wT; Path=/; Expires=Thu, 21 Aug 2025 17:36:45 GMT
+Set-Cookie: AWSALBCORS=uD1IervAz+d3wGakQB7qE6qQ5UIY2aOqZZ1Lup4YrV5qLIP5uQL74o5is85ng90h/mklqwvYVAnFFeV9OyNNdA6C858E6gtKpOIzGBtJ0VrO/a2q5B0AsFlEt8wT; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:36:45 GMT
+Cf-Ray: 96f2375e5d736505-GIG
+Alt-Svc: h3=":443"; ma=86400
+
+{"firstName":"Felipe","address":"220 208 R RIACHUELO ","city":"RIO DE JANEIRO","zip":"20230015","state":"RJ","district":"CENTRO"}
