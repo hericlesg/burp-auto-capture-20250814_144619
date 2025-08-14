@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Thu, 14 Aug 2025 17:42:55 GMT
+Set-Cookie: FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; Max-Age=63072000; Domain=zeroum.bet; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.541171167.1755192961; Max-Age=7775586; Domain=zeroum.bet; Path=/; Secure
+Trace-Id: 55f22b31-3d1e-4060-ab2c-c36d8531b406
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/17392367413/?random=955987850&fst=1755193375599&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45P91e58d0h1v9187957930z99226831139za200zb9187974028zd9187974028&url=https%3A%2F%2Fwww.zeroum.bet%2F%3FopenSuccess&ref=https%3A%2F%2Fwww.zeroum.bet%2F(middle-drawer%3Asign-up-success)%3FopenSuccess%3D&data=event%3Dpage_view&auid=541171167.1755192961&dma=0&npa=0&gcd=13l3l3l3l1l1&pscdl=noapi&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_tu=BA"],"options":{}}
+
+event: message
+data: {"send_pixel":["${transport_url}/_/set_cookie?val=980jGgTDbFFB0dQeqLzQX1dsDudJf%2BTpaoiY3MvOP3t%2BLYW1ows5QbJpTY7Ya0%2BzATS%2FyhSQSU2dAsZM%2BTfRXunGGzjXhZ4G0B66%2BrNsbc2DWvkZnAMYV3Lhd7Einvxn6bgRuRpjtpK%2BDuPYhW4IiKznEslyVU2mRRhNRww9JUnABGZt35GVo2bZblAOcF%2BmSxRvzayQIMFrfOlJUWuH7I2sU2Tk8CyVfnGySChy&path=${encoded_path}"]}
+
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45P91e58d0h1v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_is_sw=0&_tu=BA&_gsid=R38GP7L2V41_iXM_W5TaYs0ZRiaCZmvg"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-R38GP7L2V4&cid=3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962&gtm=45P91e58d0h1v9187957930z99226831139za200zb9187974028zd9187974028&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&_is_sw=0&_tu=BA&aip=1&z=1642711870"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
