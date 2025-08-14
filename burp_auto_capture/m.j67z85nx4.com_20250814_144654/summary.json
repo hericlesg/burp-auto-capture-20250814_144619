@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250814_144654", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/m.j67z85nx4.com_20250814_144654/request_001.txt", 
+      "url": "https://m.j67z85nx4.com:443/1543462/index.html?ot=58BAF441-7683-42E6-8B5A-EA5C1C28781E&btt=1&ops=6cfe4f817026432a97fa812f07bac30f&l=pt&or=08abibqk%3Dr67h85vf4%3Dkwu&__hv=2fMEQCIED2ZjRCMa%2F2420zLAWCNck%2FKERkqcBEwzHCyOTCUUOiAiB38pt%2Bg%2FGfiPj2v7MDCqC3PPVtXFKiEc0yWCuvA9yplg%3D%3D", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/m.j67z85nx4.com_20250814_144654/response_001.txt", 
+      "timestamp": 1755193486385
+    }
+  ], 
+  "host": "m.j67z85nx4.com", 
+  "total_requests": 1
+}
