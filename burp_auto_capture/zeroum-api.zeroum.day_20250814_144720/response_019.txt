@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:42:01 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nWpBSxQrEmPx3g69hCN%2FkzVbfzzInksnfghpNzHlsaekATMuPJnNQOvjpXSLbwKOVCzPJ1cOWIzf0phkufTMr0bHVYkY3GkICB3JGn6%2FjTySxaSDVg%3D%3D"}]}
+Set-Cookie: AWSALB=u62JTOUs8ifj0a6zM/hLblflGa9aF7mQw+3oh0513DSINC3EGPWkw0jZgVLpkwJ85pZayKL584XJ/+2/ccQieSkdlbgXQFs+LJjqdZfItprNzR6pqJGq6HNvpwmb; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Set-Cookie: AWSALBCORS=u62JTOUs8ifj0a6zM/hLblflGa9aF7mQw+3oh0513DSINC3EGPWkw0jZgVLpkwJ85pZayKL584XJ/+2/ccQieSkdlbgXQFs+LJjqdZfItprNzR6pqJGq6HNvpwmb; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Cf-Ray: 96f23f10d801995b-MXP
+Alt-Svc: h3=":443"; ma=86400
+
+[{"icon":"/assets/images/home-products/zu_clubevip_icon-160x160.png","name":"ZonaVIP","linkType":1,"sportId":null,"sportSlug":null,"isLiveCasinoProduct":null,"gameProviderSlug":null,"gameSlug":null,"tagSlug":null,"freeLink":"loyalty/","type":5,"order":1,"offeringStartDate":null,"offeringEndDate":null,"timeZoneOffset":-3.0},{"icon":"/assets/images/home-products/icon-bonus.png","name":"BÃ´nus","linkType":1,"sportId":null,"sportSlug":null,"isLiveCasinoProduct":null,"gameProviderSlug":null,"gameSlug":null,"tagSlug":null,"freeLink":"user/bonuses","type":5,"order":2,"offeringStartDate":null,"offeringEndDate":null,"timeZoneOffset":-3.0},{"icon":"/assets/images/home-products/icon-slot.png","name":"Slots","linkType":1,"sportId":null,"sportSlug":null,"isLiveCasinoProduct":null,"gameProviderSlug":null,"gameSlug":null,"tagSlug":null,"freeLink":"cassino-online","type":5,"order":3,"offeringStartDate":null,"offeringEndDate":null,"timeZoneOffset":-3.0},{"icon":"/assets/images/home-products/icon-live.png","name":"Live","linkType":1,"sportId":null,"sportSlug":null,"isLiveCasinoProduct":null,"gameProviderSlug":null,"gameSlug":null,"tagSlug":null,"freeLink":"cassino-ao-vivo","type":5,"order":4,"offeringStartDate":null,"offeringEndDate":null,"timeZoneOffset":-3.0},{"icon":"/assets/images/home-products/icon-futebol.png","name":"Futebol","linkType":1,"sportId":null,"sportSlug":null,"isLiveCasinoProduct":null,"gameProviderSlug":null,"gameSlug":null,"tagSlug":null,"freeLink":"apostas-esportivas/destaques","type":5,"order":5,"offeringStartDate":null,"offeringEndDate":null,"timeZoneOffset":-3.0}]
