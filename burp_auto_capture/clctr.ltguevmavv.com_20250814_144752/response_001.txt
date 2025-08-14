@@ -1,0 +1,12 @@
+HTTP/2 204 No Content
+Date: Thu, 14 Aug 2025 17:46:22 GMT
+Server: nginx/1.27.0
+Access-Control-Allow-Origin: https://tz9ymepgkc.jzdpklfspi.net
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: Authorization, Origin, X-Requested-With, Content-Type, Accept, x-api-key, x-faro-session-id
+X-Cache: Miss from cloudfront
+Via: 1.1 744954f61e8e74de45b82c15067b531e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P7
+X-Amz-Cf-Id: _8-o_cocD3mG3oFUa5PQ9p6zrW205vDjuzp9o15vvj5Qal1HXdzteg==
+
