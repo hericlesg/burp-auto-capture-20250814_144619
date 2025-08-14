@@ -1,0 +1,17 @@
+GET /cadastro?s_tracker=dykteqpdkkwkdlogpedbgjdwj&utm_medium=TAP&utm_medium=8lsk4pkhre&utm_campaign=447611&utm_source=447611&afp1=CP07%20%5Bzero1%5D%20%5BABO%20ADV%201-10-6%5D%20%5B01%2F08%5D&afp2=CJ1&afp3=AD434&afp9=victor HTTP/2
+Host: www.zeroum.bet
+Cookie: is-user-agent-robot=false; utm_source=447611; utm_medium=TAP%2C8lsk4pkhre; utm_campaign=447611; s_tracker=dykteqpdkkwkdlogpedbgjdwj; stape=%7B%22utm_source%22%3A%22447611%22%2C%22utm_medium%22%3A%22TAP%22%2C%22utm_campaing%22%3A%22447611%22%7D; _dcid=dcid.1.1755192960858.913999552; st_user_id=2e87f950db1eccc2432e03bb20e1e59c; _gcl_au=1.1.541171167.1755192961; _ga_R38GP7L2V4=GS2.1.s1755192961$o1$g0$t1755192961$j60$l0$h377807497; _ga=GA1.1.1683574790.1755192962; _fbp=fb.1.1755192960875.1052514722; _gtmeec=e30%3D; _clck=16g1myi%7C2%7Cfyg%7C0%7C2052; FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; FPLC=cN1cCjvurjkJZV5HXfzruCtsC7pwuVIAXBDbGB%2FsbsFR%2BC16UU%2B0jm8W1RE9FzsKpxlu1wYVCyjJcIbsmTeQRUZjj8%2BDjfy1aHTtiIYIvB3XOCpyQ663L7VV66EyNw%3D%3D; FPAU=1.1.541171167.1755192961; FPGSID=1.1755192961.1755192961.G-R38GP7L2V4.1_iXM_W5TaYs0ZRiaCZmvg; _clsk=zzkq4%7C1755192963145%7C1%7C1%7Cl.clarity.ms%2Fcollect
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+If-Modified-Since: Mon, 11 Aug 2025 13:56:55 GMT
+If-None-Match: W/"a64-198996b7c58"
+Priority: u=0, i
+Te: trailers
+
