@@ -1,0 +1,18 @@
+HTTP/2 304 Not Modified
+Date: Thu, 14 Aug 2025 17:36:17 GMT
+Access-Control-Allow-Origin: *
+Server: nginx
+X-Powered-By: Express
+Set-Cookie: is-user-agent-robot=false; Max-Age=60; Path=/; Expires=Thu, 14 Aug 2025 17:36:57 GMT
+Cache-Control: public, max-age=0
+Etag: W/"a64-198996b7c58"
+Vary: accept-encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 198a7a8c3b1705af1b3ba3bb0341c178.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU1-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: HDzYrSyvQbnk4aOlDbJBdwEdNod1911-uF2IP_uuOzZJNTBFR1IrRQ==
+Age: 20
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://lissaplay.com https://noalvodaroletaapp.com ;
+
