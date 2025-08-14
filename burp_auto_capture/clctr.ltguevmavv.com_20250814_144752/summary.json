@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250814_144752", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/clctr.ltguevmavv.com_20250814_144752/request_001.txt", 
+      "url": "https://clctr.ltguevmavv.com:443/collect", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/clctr.ltguevmavv.com_20250814_144752/response_001.txt", 
+      "timestamp": 1755193583504
+    }
+  ], 
+  "host": "clctr.ltguevmavv.com", 
+  "total_requests": 1
+}
