@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250814_144750", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gateway.inplaybet.com_20250814_144750/request_001.txt", 
+      "url": "https://gateway.inplaybet.com:443/external-game-launcher?Token=6cfe4f817026432a97fa812f07bac30f&ClientId=6276710&ProductId=34&PartnerId=180", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gateway.inplaybet.com_20250814_144750/response_001.txt", 
+      "timestamp": 1755193485856
+    }
+  ], 
+  "host": "gateway.inplaybet.com", 
+  "total_requests": 1
+}
