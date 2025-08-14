@@ -1,0 +1,20 @@
+HTTP/2 200 OK
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Aug 2025 17:42:54 GMT
+Access-Control-Allow-Origin: *
+Server: nginx
+X-Powered-By: Express
+Set-Cookie: is-user-agent-robot=false; Max-Age=60; Path=/; Expires=Thu, 14 Aug 2025 17:43:54 GMT
+Cache-Control: public, max-age=0
+Last-Modified: Mon, 11 Aug 2025 13:56:55 GMT
+Etag: W/"a64-198996b7c58"
+Vary: accept-encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 c8dc8af18e68307fb292185831f0b9b2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU1-P3
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: INZxbdWP1YP1k690dX2xx2INECfLykNE7fOp0GyX1TXCH2lcUpc8tQ==
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' https://lissaplay.com https://noalvodaroletaapp.com ;
+
+<!doctype html><html lang="en"><head><title></title><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="pragma" content="no-cache"><meta name="description" content=""><meta name="theme-color" content="#ffffff"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="keywords" content=""><meta property="og:url" content="https://zeroum.day"><meta property="og:title" content=""><meta property="og:image" content="https://cdn.zeroum.day/assets/images/seo/ipb_Sport_1200x628.webp"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:locale" content="pt_BR"><meta property="twitter:description" content=""><meta property="twitter:title" content=""><meta property="twitter:image" content="https://cdn.zeroum.day/assets/images/seo/ipb_Sport_1200x628.webp"><meta property="twitter:type" content="website"><meta name="facebook-domain-verification" content=""><link rel="manifest" href="https://cdn.zeroum.day/assets/webmanifest/webmanifest.pt.json"><link rel="shortcut icon" href="https://cdn.zeroum.day/assets/icons/favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="https://cdn.zeroum.day/assets/icons/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="https://cdn.zeroum.day/assets/icons/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="https://cdn.zeroum.day/assets/icons/favicon-16x16.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link rel="preconnect" href="https://cdn.zeroum.day" crossorigin=""><link rel="preconnect" href="https://zeroum.day" crossorigin=""><meta charset="utf-8"><base href="/"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,viewport-fit=cover"><script>window.addEventListener("beforeinstallprompt",(e=>{e.preventDefault(),window.deferredPrompt=e}))</script><style>*{box-sizing:border-box;touch-action:manipulation}body,html{margin:0}ul{list-style-type:none;padding:0;margin:0}a,a:is(:hover,:active){text-decoration:none}</style><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="styles.fc273ad8a2c3f736.css"></head><body class="flex flex-col font"><ips-root></ips-root><script src="polyfills.6728ee9807117983.js" type="module"></script><script src="scripts.f8a01fb3ae256800.js" defer="defer"></script><script src="main.184289ebbfbb15ad.js" type="module"></script></body></html>
