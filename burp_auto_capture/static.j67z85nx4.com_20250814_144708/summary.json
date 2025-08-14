@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250814_144708", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/request_001.txt", 
+      "url": "https://static.j67z85nx4.com:443/shared/984721902a/index.json", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/response_001.txt", 
+      "timestamp": 1755193486484
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/request_002.txt", 
+      "url": "https://static.j67z85nx4.com:443/1543462/c445ebb91e.28a96.json", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/response_002.txt", 
+      "timestamp": 1755193486679
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/request_003.txt", 
+      "url": "https://static.j67z85nx4.com:443/shared/984721902a/c913d1ca2f.1dff4.json", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/response_003.txt", 
+      "timestamp": 1755193486780
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/request_004.txt", 
+      "url": "https://static.j67z85nx4.com:443/1543462/e88f708cc1.7e59e.json", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/static.j67z85nx4.com_20250814_144708/response_004.txt", 
+      "timestamp": 1755193486780
+    }
+  ], 
+  "host": "static.j67z85nx4.com", 
+  "total_requests": 4
+}
