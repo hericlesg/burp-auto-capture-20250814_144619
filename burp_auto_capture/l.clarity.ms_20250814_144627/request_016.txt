@@ -1,0 +1,18 @@
+POST /collect HTTP/1.1
+Host: l.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 487
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: keep-alive
+
+{"e":["0.8.24",5,8361,4104,"rjz72wzpkd","16g1myi","zzkq4",2,0,0,0,"https://www.zeroum.bet/cadastro?s_tracker=dykteqpdkkwkdlogpedbgjdwj&utm_medium=TAP&utm_medium=8lsk4pkhre&utm_campaign=447611&utm_source=447611&afp1=CP07%20%5Bzero1%5D%20%5BABO%20ADV%201-10-6%5D%20%5B01%2F08%5D&afp2=CJ1&afp3=AD434&afp9=victor"],"a":[[7842,12,95,34,10],[7842,12,95,60,4],[8361,4,1,1077,1018,1077,954,0,0,73,105,8275,0,6249,73,105,6249,null,null,null,null,null,null,235,77,6233],[12465,0,2,1276,4,1,25,5]]}
