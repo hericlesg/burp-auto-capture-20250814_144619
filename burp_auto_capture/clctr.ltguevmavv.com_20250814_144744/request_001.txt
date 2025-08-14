@@ -1,0 +1,19 @@
+POST /collect HTTP/2
+Host: clctr.ltguevmavv.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+X-Api-Key: RSIlypo2lYVqM6b0krue2BsezYg6XBvm
+X-Faro-Session-Id: uW2YL7LPcZ
+Referer: https://tz9ymepgkc.jzdpklfspi.net/
+Content-Length: 1276
+Origin: https://tz9ymepgkc.jzdpklfspi.net
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"meta":{"sdk":{"version":"1.19.0"},"app":{"name":"frontend","version":"1.0.0"},"browser":{"name":"Firefox","version":"141.0","os":"Windows 10","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0","language":"pt-BR","mobile":false,"brands":"unknown","viewportWidth":"848","viewportHeight":"477"},"page":{"url":"https://tz9ymepgkc.jzdpklfspi.net/gs2c/html5Game.do?jackpotid=0&gname=Ratinho%20Sortudo%20CV&extGame=1&ext=0&cb_target=exist_tab&symbol=vs10forwild_cv99&jurisdictionID=BR&lobbyUrl=js://window.open(%27https%3A%2F%2Fzeroum.bet%2Fcasino%27,%27_parent%27,%27%27)&minilobby=false&mgckey=AUTHTOKEN@58800855e69b3e7f766ed71a2ea2053f14cbf12277af12ff2ced462095a546ce~stylename@ips_inplaysoft~SESSION@c25f2bcd-b22f-4695-ad02-451562d99158~SN@20590b2e&tabName="},"session":{"id":"uW2YL7LPcZ","attributes":{"envId":"94","static_version":"339250","origin_referrer":"https://www.zeroum.bet/"}}},"measurements":[{"type":"CustomTimerSpinTracker","values":{"value":609.37,"fastplayCount":0,"usingCoinsCount":0,"hyperCount":0,"turboCount":0,"autoplayCount":8,"responsetimeAverage":609.37,"_batchsize":8},"timestamp":"2025-08-14T17:46:20.950Z","context":{"category":"uht_spin","symbol":"vs10forwild_cv99","variable":"time_response_received"}}]}
