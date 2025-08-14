@@ -1,0 +1,17 @@
+GET /g/collect?v=2&tid=G-R38GP7L2V4&gtm=45Pe58d1h2v9187957930z89187974028za200zb9187974028zd9187974028&_p=1755192979774&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104684208~104684211~105033766~105033768~105103161~105103163~105231383~105231385~105347236&cid=1683574790.1755192962&ecid=377807497&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&ec_mode=c&_eu=AAAAAAQ&sst.etld=google.com.br&sst.tft=1755192979774&sst.lpc=183964333&sst.navt=r&sst.ude=1&sst.sw_exp=1&_s=1&sid=1755192961&sct=1&seg=1&dl=https%3A%2F%2Fwww.zeroum.bet%2Fcadastro%3Fs_tracker%3Ddykteqpdkkwkdlogpedbgjdwj%26utm_medium%3DTAP%26utm_medium%3D8lsk4pkhre%26utm_campaign%3D447611%26utm_source%3D447611%26afp1%3DCP07%2520%255Bzero1%255D%2520%255BABO%2520ADV%25201-10-6%255D%2520%255B01%252F08%255D%26afp2%3DCJ1%26afp3%3DAD434%26afp9%3Dvictor&dt=&_tu=BA&en=page_view&_et=8&ep.user_data._tag_mode=AUTO&tfd=1644&richsstsse HTTP/2
+Host: sst.zeroum.bet
+Cookie: stape=%7B%22utm_source%22%3A%22447611%22%2C%22utm_medium%22%3A%22TAP%22%2C%22utm_campaing%22%3A%22447611%22%7D; _dcid=dcid.1.1755192960858.913999552; st_user_id=2e87f950db1eccc2432e03bb20e1e59c; _gcl_au=1.1.541171167.1755192961; _ga_R38GP7L2V4=GS2.1.s1755192961$o1$g1$t1755192979$j42$l0$h377807497; _ga=GA1.1.1683574790.1755192962; _fbp=fb.1.1755192960875.1052514722; _gtmeec=e30%3D; _clck=16g1myi%7C2%7Cfyg%7C0%7C2052; FPID=FPID2.2.3Nb4whZGfqUwS1P4EclMJdHKbMDBxVx2rlmHU55kLtA%3D.1755192962; FPLC=cN1cCjvurjkJZV5HXfzruCtsC7pwuVIAXBDbGB%2FsbsFR%2BC16UU%2B0jm8W1RE9FzsKpxlu1wYVCyjJcIbsmTeQRUZjj8%2BDjfy1aHTtiIYIvB3XOCpyQ663L7VV66EyNw%3D%3D; FPAU=1.1.541171167.1755192961; FPGSID=1.1755192961.1755192961.G-R38GP7L2V4.1_iXM_W5TaYs0ZRiaCZmvg; _clsk=zzkq4%7C1755192963145%7C1%7C1%7Cl.clarity.ms%2Fcollect
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.zeroum.bet/
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+
