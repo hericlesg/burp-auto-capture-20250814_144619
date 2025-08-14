@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250814_144623", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/tz9ymepgkc.jzdpklfspi.net_20250814_144623/request_001.txt", 
+      "url": "https://tz9ymepgkc.jzdpklfspi.net:443/gs2c/ge/v4/gameService", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/tz9ymepgkc.jzdpklfspi.net_20250814_144623/response_001.txt", 
+      "timestamp": 1755193580882
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/tz9ymepgkc.jzdpklfspi.net_20250814_144623/request_002.txt", 
+      "url": "https://tz9ymepgkc.jzdpklfspi.net:443/gs2c/ge/v4/gameService", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/tz9ymepgkc.jzdpklfspi.net_20250814_144623/response_002.txt", 
+      "timestamp": 1755193583012
+    }
+  ], 
+  "host": "tz9ymepgkc.jzdpklfspi.net", 
+  "total_requests": 2
+}
