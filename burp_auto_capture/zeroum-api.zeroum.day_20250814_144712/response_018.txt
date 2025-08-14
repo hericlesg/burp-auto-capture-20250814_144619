@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Date: Thu, 14 Aug 2025 17:42:01 GMT
+Content-Type: application/json; charset=utf-8
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: https://www.zeroum.bet
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2ApQ3tGFn5%2BoLHJ1l6h83hoQ217ySayfDnBj8A8eruCe4nRQBaZ5EAKx%2BZ2izQJc%2BJS4osypXwSLQdo8sPxXJXE03SUoQG18rRoR9zLEnraB8G127Q%3D%3D"}]}
+Set-Cookie: AWSALB=SGACgi+/ly7SD4nxidr6QkpHuSyinaWi2Ma7jsnEugbtOslhWv7cTjny2L/Vz5QTy7jbsD9bWlg28v8IMk8gUG5yyRL0Gp1HF61xgcyfz3qtcQV3amz2Avw+c93B; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Set-Cookie: AWSALBCORS=SGACgi+/ly7SD4nxidr6QkpHuSyinaWi2Ma7jsnEugbtOslhWv7cTjny2L/Vz5QTy7jbsD9bWlg28v8IMk8gUG5yyRL0Gp1HF61xgcyfz3qtcQV3amz2Avw+c93B; SameSite=None; Secure; Path=/; Expires=Thu, 21 Aug 2025 17:42:01 GMT
+Cf-Ray: 96f23f10d80c995b-MXP
+Alt-Svc: h3=":443"; ma=86400
+
+{"games":[{"image":"/assets/images/products/pragmaticplay/fÃªnix-sortuda_816x1020_fp-logo-_1_.webp","name":"FÃªnix Sortuda","slug":"fenixsortuda","providerId":54,"gameId":2005326,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":10000.0,"hasDemo":true,"jackpot":false,"rtp":97.50},{"image":"/assets/images/products/image-20250425-160930.png","name":"Big Bass Bonanza 1000","slug":"big-bass-bonanza-1000","providerId":54,"gameId":2004491,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":9999.0,"hasDemo":true,"jackpot":false,"rtp":96.51},{"image":"/assets/images/products/a26f08c0aa36c85a565b2c2882f353e695e5802470fa0d9276c35c322a8fc0c5.png","name":"Fortune Snake","slug":"fortunesnake","providerId":1013,"gameId":2004163,"providerName":"PGSoft","providerSlug":"pgsoft","raiting":2.0,"hasDemo":true,"jackpot":false,"rtp":96.75},{"image":"/assets/images/products/image-20250425-160943.png","name":"Gates of Olympus Super Scatter","slug":"gates-of-olympus-super-scatter","providerId":54,"gameId":2004492,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":true,"jackpot":false,"rtp":96.50},{"image":"/assets/images/products/pragmaticplay/gb_dynamite\u2028diggin-doug_420x560_2804.webp","name":"Dynamite Diggin Doug","slug":"dynamite-diggin-doug","providerId":54,"gameId":2004495,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":true,"jackpot":false,"rtp":96.51},{"image":"/assets/images/products/pragmaticplay/gb_hellvis-wild_420x560_2804.webp","name":"Hellvis Wild","slug":"hellvis-wild","providerId":54,"gameId":2004497,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":true,"jackpot":false,"rtp":96.01},{"image":"/assets/images/products/pragmaticplay/gb_fiesta-fortune-_420x560_3005.webp","name":"Fiesta Fortune","slug":"fiestafortune","providerId":54,"gameId":2005288,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":true,"jackpot":false,"rtp":96.50},{"image":"/assets/images/products/pragmaticplay/wealthy-frog-thumb.webp","name":"Wealthy Frog","slug":"wealthyfrog","providerId":54,"gameId":2005287,"providerName":"PragmaticPlay","providerSlug":"pragmaticplay","raiting":0.00,"hasDemo":false,"jackpot":false,"rtp":96.50}],"providers":[{"id":1013,"slug":"PGSoft","gamesCount":1,"text":"PGSoft","image":"/assets/images/providers/pgsoft.webp"},{"id":54,"slug":"PragmaticPlay","gamesCount":7,"text":"PragmaticPlay","image":"/assets/images/providers/pragmatic_play.webp"}],"totalGamesCount":8,"slug":"jogos-da-semana"}
